@@ -22,10 +22,8 @@ LR6: https://github.com/AlexShabalin73/Informatics-and-programming-II/blob/main/
 ### Лабораторные работы  
 
 
-
-
 ### Дедлайн
-Лабораторная работа 0: 
+Лабораторная работа 0: 4.03.23
 
 
 ### Журнал  
