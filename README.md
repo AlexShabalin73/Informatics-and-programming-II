@@ -6,7 +6,7 @@
 **Семинары** 
   
 **Лабораторные работы**  
-
+LR6: https://github.com/AlexShabalin73/Informatics-and-programming-II/blob/main/2023/LR/LR6.pdf  
   
 2 неделя:  
 
